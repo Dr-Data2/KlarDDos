@@ -1,3 +1,2 @@
 rich
-threading
 requests
