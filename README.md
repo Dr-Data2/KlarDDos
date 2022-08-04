@@ -3,8 +3,12 @@
 [![YouTube Channel Subscribers](https://youtu.be/JE_srze4gMQ)][youtube]
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Telegram](https://t.me/kali_linux_ar)
-Download Termux tools without problems with download android and lots of operating systems
-![Image 1]()
+
+
+DDOS strong tool to stop servers and sites
+
+
+
 ## installing
 
 - 1 . <code> pkg install python </code>
