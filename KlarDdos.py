@@ -260,7 +260,7 @@ def usage1():
         	-f : Fake ip
             -d : Hide message
 	example :
-	    python KlarDdos.py -i 10.93.10.111 -p 8080 -l 2"""
+	    python KlarDdos.py -i 92.204.214.136 -p 8080 -l 2"""
     md = Markdown(MARKDOWN)
     console.print(md,style="bold green")
     #sys.exit()
