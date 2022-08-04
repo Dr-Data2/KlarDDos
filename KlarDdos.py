@@ -286,7 +286,7 @@ def usage3():
     Programmer : Dr Data
     Made in : YEMEN
     Telegram : https://t.me/kali_linux_ar
-    github : https://github.com/alastorh2222/KlarDDos
+    github : https://github.com/Dr-Data2/KlarDDos
     Tool Information : I was specially made to destroy Israel   
 """
     md = Markdown(MARKDOWN)
