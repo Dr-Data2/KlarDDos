@@ -31,7 +31,7 @@ $ <code>python KlarDdos.py [-i] [-p] [-l]    </code>
 │         -f : ال ايبي الزائف اختياري                              
 │         -d : اخفاء وتقليل الرسائل المنبثقه                         
  مثال :                                        
-<code> python KlarDdos.py -i 10.93.10.111 -p 8080 -l  2 </code>
+<code> python KlarDdos.py -i 92.204.214.136 -p 80 -l  2 </code>
 
 
 
