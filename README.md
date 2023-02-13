@@ -2,7 +2,7 @@
 
 [![YouTube Channel Subscribers](https://youtu.be/JE_srze4gMQ)][youtube]
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)]
-[![Telegram](https://t.me/kali_linux_ar)]
+[Telegram](https://t.me/kali_linux_ar)
 
 
 DDOS strong tool to stop servers and sites
